@@ -6,5 +6,13 @@
     "display_date": "May 18, 2026",
     "post_type": "nba",
     "has_audio": false
+  },
+  {
+    "title": "Weekly NBA Media Digest \u2014 May 18, 2026",
+    "filename": "2026-05-18-weekly-nba-media-digest-may-18-2026.html",
+    "date": "2026-05-18",
+    "display_date": "May 18, 2026",
+    "post_type": "media",
+    "has_audio": true
   }
 ]
